@@ -18,7 +18,8 @@
 - [Лекция 3 – GRASP](lectures/3-grasp.pdf)
 - [Лекция 4 – Порождающие паттерны](lectures/4-creational-patterns.pdf)
 - [Лекция 5 – Структурные паттерны](lectures/5-structural-patterns.pdf)
-- [Лекция 6 - Поведенческие паттерны](lectures/6-behavioural-patterns-1-presentation.pdf)
+- [Лекция 6 - Поведенческие паттерны (1)](lectures/6-behavioural-patterns-1-presentation.pdf)
+- [Лекция 7 - Поведенческие паттерны (2)](lectures/7-behavioural-patterns-2-presentation.pdf)
 
 ## Лабораторные
 
