@@ -1,0 +1,42 @@
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.exe
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.deps.json
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.json
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.dev.json
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csproj.AssemblyReference.cache
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfo.cs
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\mimoanon\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.genruntimeconfig.cache
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.exe
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.deps.json
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.json
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.dev.json
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csproj.AssemblyReference.cache
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfo.cs
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\mimoanon\Desktop\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.genruntimeconfig.cache
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.exe
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.deps.json
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.json
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.runtimeconfig.dev.json
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\bin\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csproj.AssemblyReference.cache
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.AssemblyInfo.cs
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.dll
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.pdb
+C:\Users\Alinka\Desktop\lab1_2 (1)\ConsoleApp25_1\ConsoleApp25\obj\Debug\netcoreapp3.1\ConsoleApp25.genruntimeconfig.cache
